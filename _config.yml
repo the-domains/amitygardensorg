@@ -19,6 +19,9 @@ navigation:
   - name: History
     id: fb40c4ef-9ee4-4baf-8461-39b7dd7aa755
     type: content
+  - name: Calendar
+    id: 1ba6414e-bdba-4b62-aee4-887eb3a1c06e
+    type: content
 collections:
   - index:
       path: /
