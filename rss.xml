@@ -4,21 +4,21 @@
         <description><![CDATA[Amity Gardens]]></description>
         <link>https://thegrid.ai/amitygardensorg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 01:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 01:53:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/amitygardensorg/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Calendar ]]></title>
+            <description><![CDATA[<article><h1>Calendar </h1><p>Garbage Pickup– Every Tuesday</p></article>]]></description>
+            <link>https://thegrid.ai/amitygardensorg/calendar/index.html</link>
+            <guid isPermaLink="false">1ba6414e-bdba-4b62-aee4-887eb3a1c06e</guid>
+            <pubDate>Mon, 22 Aug 2016 01:51:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2nd ANNUAL TOWN HALL, Wed Sept 14 at EMHS, 6:15-8pm]]></title>
             <description><![CDATA[<article><h1>2nd ANNUAL TOWN HALL, Wed Sept 14 at EMHS, 6:15-8pm</h1><p>Come hear about the great things taking place in the MoRA area! Come learn about Silver Line (light rail) proposal! Be there for a BIG ANNOUNCEMENT! When: Wednesday, September 14 from 6:15 - 8pm Where: East Mecklenburg High School's auditorium, 6800 Monroe Road</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7b5948215a37f7fb4c9498d953bf6595/noop.jpeg?input=http%3A%2F%2Fmoraclt.org%2Fwp-content%2Fuploads%2F2016%2F08%2FMoRA_TownHall_poster_2016.jpeg"></article>]]></description>
             <link>http://moraclt.org/town-hall/</link>
             <guid isPermaLink="false">c079b942-3034-4bbc-9589-56fed16d7bd3</guid>
             <pubDate>Mon, 22 Aug 2016 01:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Tesla Will Destroy the Automobile Industry]]></title>
-            <description><![CDATA[<article><h1>Why Tesla Will Destroy the Automobile Industry</h1><p>If there's an example of a company about to disruptively innovate an entire industry, it's Tesla. Partly, this is because of raw technology--Tesla's is clearly superior to that of its competitors. Partly, it's because Tesla has a more efficient business model. As Slate recently pointed out, Tesla bypasses value-subtracting dealer franchises and universally disliked car salespeople.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/967786c4c9a099ae3d4e342800c9901098d0268b.jpg"></article>]]></description>
-            <link>http://www.inc.com/geoffrey-james/why-tesla-will-destroy-the-automobile-industry.html?cid=sf01002&amp;sr_share=facebook</link>
-            <guid isPermaLink="false">f4516c64-8d34-4b7e-bf9e-13a66bf4334b</guid>
-            <pubDate>Mon, 22 Aug 2016 01:23:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
