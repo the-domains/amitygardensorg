@@ -11,7 +11,10 @@ color:
     - '#A8000A'
   rhythmicContrast: 0.3234043
 layout_spectrum: 0.6097563509829342
-name: AmityGardens.org
+author:
+  name: ''
+  email: ''
+name: Amity Gardens
 navigation:
   - name: Home
     id: aec1341a-f96f-4097-ab92-3548b13778cf
@@ -34,5 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Amity Gardens
+title: ' Official Website of the Amity Gardens Neighborhood in east Charlotte, NC'
 description: ''
