@@ -5,13 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Garbage Pickup– Every Tuesday
-datePublished: '2016-08-22T01:51:10.572Z'
-dateModified: '2016-07-13T00:57:29.277Z'
+datePublished: '2016-08-22T01:54:10.058Z'
+dateModified: '2016-08-22T01:54:09.730Z'
 title: "Calendar\_"
 author: []
 authors: []
-publisher: null
+publisher: {}
 sourcePath: _posts/2016-07-13-garbage-pickup-every-tuesday.md
+via: {}
 starred: false
 url: calendar/index.html
 _type: Article
