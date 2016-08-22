@@ -1,4 +1,3 @@
-layout_spectrum: 0.6097563509829342
 typography_spectrum: 0.8011434492655098
 color:
   brandStrength: 0.5813458140473813
@@ -11,4 +10,6 @@ color:
     - '#9C8F93'
     - '#62504D'
     - '#A8000A'
+layout_spectrum: 0.6097563509829342
 name: AmityGardens.org
+title: Amity Gardens
