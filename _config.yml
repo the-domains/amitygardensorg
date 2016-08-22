@@ -1,16 +1,28 @@
-typography_spectrum: 0.8011434492655098
+title: Amity Gardens
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.5813458140473813
+  saturation: 0.1734184136148542
+  brandStrength: 1
   lightness: 0.8636310820002109
-  saturation: 0.17341841361485422
-  rhythmicContrast: 0.930566733237356
   brandColors:
     - '#FFFFFF'
     - '#100001'
     - '#9C8F93'
     - '#62504D'
     - '#A8000A'
+  rhythmicContrast: 0.930566733237356
+typography_spectrum: 0.8011434492655098
+description: ''
 layout_spectrum: 0.6097563509829342
 name: AmityGardens.org
-title: Amity Gardens
-description: ''
