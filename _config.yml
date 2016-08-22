@@ -16,6 +16,9 @@ navigation:
   - name: Home
     id: aec1341a-f96f-4097-ab92-3548b13778cf
     type: content
+  - name: History
+    id: fb40c4ef-9ee4-4baf-8461-39b7dd7aa755
+    type: content
 collections:
   - index:
       path: /
