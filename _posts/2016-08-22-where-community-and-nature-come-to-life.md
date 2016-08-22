@@ -1,20 +1,33 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Where community and nature come to life…
-datePublished: '2016-08-22T01:51:12.621Z'
-dateModified: '2016-07-13T00:55:46.413Z'
-authors: []
-publisher: null
-title: ''
+id: aec1341a-f96f-4097-ab92-3548b13778cf
+metadata:
+  datePublished: '2016-08-22T01:51:12.621Z'
+  sourcePath: _posts/2016-08-22-where-community-and-nature-come-to-life.md
+  inFeed: true
+  isBasedOnUrl: null
+  authors: []
+  hasPage: true
+  keywords: []
+  author: []
+  via: {}
+  dateModified: '2016-08-22T01:51:12.621Z'
+  title: 'Official Website of the Amity Gardens Neighborhood in east Charlotte, NC'
+  publisher: {}
+  description: Where community and nature come to life…
+  inLanguage: null
+  inNav: false
+dateModified: '2016-08-22T01:53:33.649Z'
+title: 'Official Website of the Amity Gardens Neighborhood in east Charlotte, NC'
+datePublished: '2016-08-22T01:53:33.900Z'
 author: []
+hasPage: true
+description: Where community and nature come to life…
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-08-22-where-community-and-nature-come-to-life.md
 url: where-community-and-nature-come-to-life/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Official Website of the Amity Gardens Neighborhood in east Charlotte, NC
