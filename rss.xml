@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AmityGardens.org]]></title>
-        <description><![CDATA[AmityGardens.org]]></description>
+        <title><![CDATA[Amity Gardens]]></title>
+        <description><![CDATA[Amity Gardens]]></description>
         <link>https://thegrid.ai/amitygardensorg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 01:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 01:49:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/amitygardensorg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hyperloop wants to connect these major European cities with high-speed trains.]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.wallpaper.com/lifestyle/hyperloop-wants-to-connect-these-major-european-cities-with-high-speed-trains</link>
             <guid isPermaLink="false">31bc31fc-566f-429b-bb49-578ec7e07686</guid>
             <pubDate>Mon, 22 Aug 2016 01:23:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2nd ANNUAL TOWN HALL, Wed Sept 14 at EMHS, 6:15-8pm]]></title>
+            <description><![CDATA[<article><h1>2nd ANNUAL TOWN HALL, Wed Sept 14 at EMHS, 6:15-8pm</h1><p>Come hear about the great things taking place in the MoRA area! Come learn about Silver Line (light rail) proposal! Be there for a BIG ANNOUNCEMENT! When: Wednesday, September 14 from 6:15 - 8pm Where: East Mecklenburg High School's auditorium, 6800 Monroe Road</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7b5948215a37f7fb4c9498d953bf6595/noop.jpeg?input=http%3A%2F%2Fmoraclt.org%2Fwp-content%2Fuploads%2F2016%2F08%2FMoRA_TownHall_poster_2016.jpeg"></article>]]></description>
+            <link>http://moraclt.org/town-hall/</link>
+            <guid isPermaLink="false">c079b942-3034-4bbc-9589-56fed16d7bd3</guid>
+            <pubDate>Mon, 22 Aug 2016 01:49:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why Tesla Will Destroy the Automobile Industry]]></title>
